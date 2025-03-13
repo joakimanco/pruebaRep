@@ -85,4 +85,9 @@ public class Date {
       return false;
     }
   }
+
+  public void holaMundo(){
+    System.out.println("Hola Mundo, buenos días.");
+  }
+  
 }
